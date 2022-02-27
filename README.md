@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulodetarsoteles
-- 👀 I’m interested in Java, SpringBoot, C#, .Net, AspNet, MySQL, SQL Verver
+- 👀 I’m interested in Java, SpringBoot, C#, .Net, Asp.Net, MySQL, SQL Verver
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
 
