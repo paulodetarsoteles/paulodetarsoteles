@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulodetarsoteles
-- 👀 I’m interested in C#, .Net, Asp.Net, Java, SpringBoot, SQL Verver and MySQL
+- 👀 I’m interested in C#, .Net, Asp.Net, Entity Framework, Java, Hibernate, SpringBoot, SQL Server and MySQL
 - 🌱 I’m currently learning EntityFramework
 - 💞️ I’m looking to collaborate on .Net
 
