@@ -1,8 +1,7 @@
 - 👋 Sou Paulo -- @paulodetarsoteles
-- 👀 Interessado em C#, .Net, Asp.Net, Entity Framework, Java, JPA, SpringBoot, SQL Server, MongoDB and MySQL
-- 🌱 Atualmente estudando React
+- 👀 Interessado em Backend e Web: .Net (C#) com Asp.Net Core, Java com SpringBoot e bancos de dados SQL Server, MySQL e MongoDB
+- 🌱 Atualmente estudando Angular
 - 💞️ Gostaria de colaborar com o OpenSource
-
 
 <!---
 paulodetarsoteles/paulodetarsoteles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
