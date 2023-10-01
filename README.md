@@ -26,9 +26,7 @@
   
 <div align="center" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ally-Python" height="40" width="50" src="https://www.svgrepo.com/show/376350/spring.svg" /> 
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.svg" /> 
-  <img align="center" alt="Ally-Python" height="40" width="50" src="https://iconape.com/wp-content/png_logo_vector/asp-net-logo.png" /> 
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png">
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg">
