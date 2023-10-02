@@ -1,4 +1,5 @@
-<h3>👋 Opa! Tudo blz? Meu nome é Paulo, seja bem vindo(a) ao meu GitHub!</h3>  
+<h3>👋 Opa! Tudo blz? Meu nome é Paulo, seja bem vindo(a) ao meu GitHub</h3>  
+
 - 🌐 @paulodetarsoteles
 - 👀 Interessado em Backend e Web: .Net (C#) com Asp.Net Core, Java com SpringBoot e bancos de dados SQL Server, MySQL e MongoDB
 - 🌱 Atualmente estudando Angular
