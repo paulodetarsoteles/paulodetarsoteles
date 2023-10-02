@@ -7,8 +7,6 @@
  
 <h6> 💫 .Net (C#), Asp.Net Core, Java, SpringBoot, SQL Server, MySQL e MongoDB </h6>
  
-##
- 
 <h3> <a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
  
 ##
@@ -33,5 +31,3 @@
   <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
- 
-##
