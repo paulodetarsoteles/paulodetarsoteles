@@ -1,8 +1,8 @@
 <h3>👋 Opa! Tudo blz? Meu nome é Paulo, seja bem vindo(a) ao meu GitHub</h3>  
 
 - 🌐 @paulodetarsoteles
-- 👀 Interessado em Backend e Web: .Net (C#) com Asp.Net Core, Java com SpringBoot e bancos de dados SQL Server, MySQL e MongoDB
-- 🌱 Atualmente estudando Angular
+- 👀 Interessado em Backend e Web: .Net (C#), Java, ASP.Net, SpringBoot e bancos de dados SQL Server, MySQL, MongoDB e REDIS
+- 🌱 Atualmente estudando Frontend Angular com Typescript
 - 💞️ Gostaria de colaborar com o OpenSource
  
 <h6> 💫 .Net (C#), Asp.Net Core, Java, SpringBoot, SQL Server, MySQL e MongoDB </h6>
