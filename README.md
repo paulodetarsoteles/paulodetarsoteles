@@ -9,14 +9,15 @@
  
 <h3> <a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ally-Python" height="40" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.svg" /> 
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png">
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg">
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ally-CSharp" height="35" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.svg" /> 
+  <img align="center" alt="Ally-Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ally-SQLServer" height="35" width="35" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png">
+  <img align="center" alt="Ally-MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ally-MongoDB" height="35" width="35" src="https://www.svgrepo.com/show/331488/mongodb.svg">
+  <img align="center" alt="Ally-Angular" height="35" width="35" src="https://pic.onlinewebfonts.com/thumbnails/icons_628219.svg">
+  <img align="center" alt="Ally-TS" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/archive/4/4c/20221110153200%21Typescript_logo_2020.svg">
+  <img align="center" alt="Ally-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ally-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
 ##
