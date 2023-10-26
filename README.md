@@ -5,7 +5,7 @@
 - 🌱 Atualmente estudando Frontend Angular com Typescript
 - 💞️ Gostaria de colaborar com o OpenSource
  
-<h6> 💫 C#, Asp.Net Core, Java, SpringBoot, TypesScript, Angular, SQL Server, MySQL e MongoDB </h6>
+<h6> 💫 C#, Asp.Net, Java, SpringBoot, TypesScript, Angular, SQL Server, MySQL e MongoDB </h6>
  
 <h3> <a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
 <div align="center" style="display: inline_block">
