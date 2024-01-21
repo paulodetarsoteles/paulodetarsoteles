@@ -2,7 +2,7 @@
 
 - 🌐 @paulodetarsoteles
 - 👀 Trabalho com backend .NET (C#), Java, ASP.NET, SpringBoot e bancos de dados SQL Server, MySQL, MongoDB e Redis
-- 🌱 Atualmente estudando frontend com o framework Angular usando TypeScript
+- 🌱 Atualmente estudando frontend com o framework React usando TypeScript
 - 💞️ Gostaria de colaborar com o OpenSource
  
 <h3> <a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
