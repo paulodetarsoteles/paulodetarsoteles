@@ -1,8 +1,8 @@
 <h3>👋 Opa! Tudo blz? Meu nome é Paulo, seja bem vindo(a) ao meu GitHub</h3>  
 
 - 🌐 @paulodetarsoteles
-- 👀 Trabalho com .NET (C#), ASP.NET e bancos de dados SQL Server, MySQL, Postgres, MongoDB e Redis
-- 🌱 Atualmente estudando frontend com a biblioteca React
+- 👀 Trabalho com .NET (C#), ASP.NET e bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB e Redis
+- 🌱 Atualmente estudando frontend com o framework Angular
 - 💞️ Gostaria de colaborar com o OpenSource
  
 <h3> <a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
