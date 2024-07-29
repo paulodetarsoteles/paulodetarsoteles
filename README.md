@@ -14,7 +14,9 @@
  <a title="CSS3" href=#><img align="center" alt="Ally-CSS"height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
  <a title="SQL Server" href=#><img align="center" alt="Ally-SQLServer" height="46" width="46" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png"></a>
  <a title="MySQL" href=#><img align="center" alt="Ally-MySQL" height="46" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+ <a title="PostgreSQL" href=#><img align="center" alt="Ally-MySQL" height="46" width="46" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"></a>
  <a title="MongoDB" href=#><img align="center" alt="Ally-MongoDB" height="44" width="44" src="https://www.svgrepo.com/show/331488/mongodb.svg"></a>
+ <a title="Redis" href=#><img align="center" alt="Ally-MySQL" height="46" width="46" src="https://cdn.iconscout.com/icon/free/png-512/free-redis-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226048.png"></a>
 </div>
  
 ##
