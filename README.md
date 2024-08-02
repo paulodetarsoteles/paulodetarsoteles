@@ -3,7 +3,7 @@
 - 🌐 @paulodetarsoteles
 - 👀 Hoje trabalho em ambiente .NET C# (Web), mas já estudei Java com Springboot
 - 💾 Já usei os bancos de dados SQL Server, PostgreSQL, MySQL, SQLite, MongoDB e Redis
-- 🌱 Atualmente estudando frontend com o framework Angular com TypeScript
+- 🌱 Atualmente estudando frontend com TypeScript e o framework Angular
 - 💞️ Gostaria de colaborar com o OpenSource
  
 <h3><a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
