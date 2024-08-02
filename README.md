@@ -1,8 +1,8 @@
 <h3>👋 Opa! Tudo blz? Meu nome é Paulo, seja bem vindo(a) ao meu GitHub</h3>  
 
 - 🌐 @paulodetarsoteles
-- 👀 Hoje trabalho em ambiente Microsoft com .NET (C#) Web, mas já estudei Java com Springboot
-- 💾 Já usei os banco de dados SQL Serve, PostgreSQL, MySQL, SQLite, MongoDB e Redis
+- 👀 Hoje trabalho em ambiente .NET C# (Web), mas já estudei Java com Springboot
+- 💾 Já usei os bancos de dados SQL Server, PostgreSQL, MySQL, SQLite, MongoDB e Redis
 - 🌱 Atualmente estudando frontend com o framework Angular com TypeScript
 - 💞️ Gostaria de colaborar com o OpenSource
  
