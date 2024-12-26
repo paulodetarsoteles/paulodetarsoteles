@@ -1,7 +1,5 @@
-<h3>👋 Opa! Tudo blz? Meu nome é Paulo, seja bem vindo(a) ao meu GitHub</h3>  
-
 - 🌐 @paulodetarsoteles
-- 👀 Sou desenvolvedor full stack em ambiente .NET usando C#, mas já estudei Java com Springboot
+- 👀 Sou desenvolvedor full stack em ambiente .NET
 - 💾 Já usei os bancos de dados SQL Server, PostgreSQL, MySQL, SQLite, MongoDB e Redis
 - 🌱 Atualmente estudando frontend com TypeScript e o framework Angular
 - 💞️ Gostaria de colaborar com o OpenSource
