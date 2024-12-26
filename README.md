@@ -8,8 +8,8 @@
  
 <h3><a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
 <div align="center" style="display: inline_block">
- <a title="C#" href=#><img align="center" alt="C#" height="49" width="49" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.svg" /></a>
- <a title="Angular" href=#><img align="center" alt="Angular" height="47" width="47" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-3521273-2944777.png" /></a>
+ <a title="C#" href=#><img align="center" alt="C#" height="47" width="43" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" /></a>
+ <a title="Angular" href=#><img align="center" alt="Angular" height="47" width="47" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226070.png?f=webp&w=128" /></a>
  <a title="TypeScript" href=#><img align="center" alt="TypeScript" height="44" width="44" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></a>
  <a title="Javascript" href=#><img align="center" alt="JavaScript" height="44" width="44" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png"></a>
  <a title="HTML5" href=#><img align="center" alt="HTML" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
