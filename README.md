@@ -1,5 +1,4 @@
-- 👀 Sou desenvolvedor full stack em ambiente .NET
-- 💾 Já usei os bancos de dados SQL Server, PostgreSQL, MySQL, SQLite, MongoDB e Redis
+- 👀 Sou desenvolvedor full stack 
 - 🌱 Atualmente estudando frontend com TypeScript e o framework Angular
  
 <h3><a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
