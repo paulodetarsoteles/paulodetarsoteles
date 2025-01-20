@@ -1,5 +1,5 @@
-- 👀 Sou desenvolvedor full stack 
-- 🌱 Atualmente estudando frontend com TypeScript e o framework Angular
+- 👀 Sou desenvolvedor full stack com mais experiência em ambiente .NET, usando C#, ASP.NET, MVC, Razor, JQuery e Web Forms
+- 🌱 Atualmente estudando frontend com framework Angular usando TypeScript
  
 <h3><a href="https://www.linkedin.com/in/paulodetarsoteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
  
